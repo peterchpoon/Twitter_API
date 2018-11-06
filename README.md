@@ -10,4 +10,4 @@ http://localhost:8080/v1/twitter/{id}?message={text}
 ex:
 http://localhost:8080/v1/twitter/2305278770?message=PingPong
 
-*Note: the pom.xml and config.yml files have been excluded.
+*Note: the pom.xml and config.yml and credential.db files have been excluded.
